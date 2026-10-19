@@ -1,0 +1,6 @@
+{
+  "name": "Medicinskåpet",
+  "description": "Privat inventering av läkemedel i hemmet med lokal Room-databas och streckkodsläsare.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
